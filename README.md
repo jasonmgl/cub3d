@@ -19,13 +19,11 @@ Use the provided Makefile to compile the project:
 ```bash
 make
 ```
-This will generate the executable cub3d.
-
 or
 ```bash
 make bonus
 ```
-This will generate the executable cub3d with bonus.
+This will generate the executable cub3d with or without bonus.
 
 
 Run the Program:
