@@ -27,6 +27,7 @@ make bonus
 ```
 This will generate the executable cub3d with bonus.
 
+
 Run the Program:
 
 Execute the program with a map file as an argument:
