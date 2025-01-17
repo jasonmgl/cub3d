@@ -52,10 +52,6 @@ Maps: Houses map files used by the program to render different environments.
 
 Sound: Contains audio files for in-game sounds.
 
-Srcs: Holds the source code for the main functionalities of the program, including initialization, rendering, and event handling.
-
-Srcs_bonus: Includes additional features and enhancements beyond the basic requirements.
-
 Textures: Stores texture files used for rendering walls, sprites, and other graphical elements.
 
 with @ysengoku.
