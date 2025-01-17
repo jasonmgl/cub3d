@@ -21,12 +21,23 @@ make
 ```
 This will generate the executable cub3d.
 
+or
+```bash
+make bonus
+```
+This will generate the executable cub3d with bonus.
+
 Run the Program:
 
 Execute the program with a map file as an argument:
 
 ```bash
 ./cub3d maps/your_map.cub
+```
+
+or
+```bash
+./cub3D_bonus maps/your_map.cub
 ```
 Replace your_map.cub with the path to your desired map file.
 
@@ -36,8 +47,6 @@ Replace your_map.cub with the path to your desired map file.
 - Libraries: Depends on the MiniLibX library for graphical rendering. Ensure that MiniLibX is properly installed on your system.
 
 ## DESCRIPTIONS
-Includes: Contains header files defining function prototypes and necessary macros.
-
 Lib: Includes the libft library, providing essential utilities for string manipulation, memory management, and linked list operations.
 
 Maps: Houses map files used by the program to render different environments.
